@@ -18,6 +18,8 @@ func main() {
     for i:= 0; i < h ; i++ {
         fmt.Println(strings.Replace(nextStr(), "TT", "PC", -1))
     }
+
+    
 }
 
 func nextInt() int {
